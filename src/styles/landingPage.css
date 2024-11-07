@@ -1,0 +1,106 @@
+
+
+@media (max-width: 992px) {
+    .header{
+      width: 100%;
+      max-width:100%;
+      position: sticky;
+      top: 0; 
+    }
+    /* .login_button{
+        display: block;
+    } */
+    h2{
+      text-align: center;
+      
+    }
+    
+  }
+  
+  @media (max-width: 768px) {
+    .header{
+      max-width:100%;
+      width: 100%;
+      position: sticky;
+      top: 0; 
+    }
+    /* .login_button{
+        display: block;
+    } */
+    h2{
+      text-align: center;
+    }
+    /* .carousel-item {
+      display: flex;
+    } */
+    
+
+    
+  }
+  
+  @media (max-width:576px){
+    .header{
+      max-width:100%;
+      width: 100%;
+      position: sticky;
+      top: 0; 
+    }
+
+    .login_button{
+        /* visibility: hidden; */
+        display: none;
+    }
+    .about{
+        height: 300px;
+    }
+    .about_text{
+        line-height: normal;
+    }
+    h2{
+      text-align: center;
+    }
+  
+  
+  }
+
+  .card_icons {
+    color:white;
+    background-color: blue;
+  }
+
+  .card_content:hover{
+    /* box-shadow: 10px; */
+    background-color:rgb(222, 237, 241);
+  }
+
+
+  
+  .image_scroll {
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.images {
+    padding: 10px;
+    border-radius: 15px;
+    width:300px;
+    height: 250px;
+    transition: transform 0.3s ease;
+}
+
+.images:hover {
+    transform: scale(1.1);
+}
+
+h5 {
+    margin-top: 10px;
+    font-size: 16px;
+    color: blue;
+}
+ 
+.btn_getstart{
+ /*  outline-color: red; */
+  color: blue;
+}
+
