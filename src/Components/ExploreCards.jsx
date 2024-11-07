@@ -197,7 +197,7 @@ function ExploreCards({ property}) {
             <p><span className='text-warning'>${property.price}</span>   Per night</p>
               </Col>
               <Col>
-                {/* <img src="https://th.bing.com/th/id/OIP.yPEaz-j1EKaUnQb6Yx7R2gHaE8?w=1200&h=800&rs=1&pid=ImgDetMain" height={'200px'} alt="" /> */}
+                
                 {<div id="demo" class="carousel slide" data-bs-ride="carousel">
 
                 <div class="carousel-inner">

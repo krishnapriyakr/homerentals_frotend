@@ -34,12 +34,7 @@ function Footer() {
            <a href='' className='me-4 text-reset'>
              <MDBIcon style={{color:'black'}}  fab icon="instagram" />
            </a>
-           {/* <a href='' className='me-4 text-reset'>
-             <MDBIcon style={{color:'white'}}  fab icon="linkedin" />
-           </a>
-           <a href='' className='me-4 text-reset'>
-             <MDBIcon style={{color:'white'}}  fab icon="github" />
-           </a> */}
+          
          </div>
            </MDBCol>
  
